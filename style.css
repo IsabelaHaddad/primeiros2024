@@ -1,3 +1,7 @@
 body {
-    background-color: rgba(153, 50, 204, 0.303);
+    background-color: rgba(153, 50, 204, 0.817);
+}
+
+p {
+    color: aqua;
 }
