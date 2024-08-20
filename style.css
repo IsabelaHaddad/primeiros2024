@@ -1,5 +1,6 @@
 body {
     background-color: rgba(153, 50, 204, 0.817);
+    text-align: center;
 }
 
 p {
@@ -8,4 +9,8 @@ p {
 
 .unicornio {
     font-style: italic;
+}
+
+h3 {
+    font-size: 150%;
 }
