@@ -14,3 +14,8 @@ p {
 .img1 {
     width: 50%;
 }
+
+nav a {
+    color: pink;
+    text-decoration: underline;
+}
