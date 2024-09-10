@@ -3,7 +3,9 @@ body {
     text-align: center;
 }
 
-p {
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
     font-size: 32px;
 }
 
@@ -16,7 +18,3 @@ p {
     width: 50%;
 }
 
-nav a:hover {
-    color: rgb(235, 10, 141);
-    text-decoration: underline;
-}
