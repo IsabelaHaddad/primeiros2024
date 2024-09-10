@@ -4,18 +4,19 @@ body {
 }
 
 p {
-    color: aqua;
+    font-size: 40%;
 }
 
 .unicornio {
     font-style: italic;
+    color: aqua;
 }
 
 .img1 {
     width: 50%;
 }
 
-nav a {
+nav a:hover {
     color: rgb(235, 10, 141);
     text-decoration: underline;
 }
