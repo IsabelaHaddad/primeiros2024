@@ -1,22 +1,26 @@
 body {
     background-color: rgba(153, 50, 204, 0.817);
-    text-align: center;
     margin: 0px
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+  margin-top: 5px;
     padding: 20px;
     font-size: 20px;
     text-decoration: none;
+    color:rgba(204, 168, 238, 0.192)
 }
-
+h1 {
+    color: darkturquoise;
+}
 .unicornio {
     font-style: italic;
-    color: aqua;
 }
 
 .img1 {
     width: 50%;
 }
 
+.center {
+    text-align: center;
+}
