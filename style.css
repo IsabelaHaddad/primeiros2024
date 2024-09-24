@@ -4,10 +4,9 @@ body {
 }
 
 nav a {
-   margin-top: 5px;
+    margin-top: 5px;
     padding: 2px;
     font-size: 20px;
-    text-decoration: none;
     color:rgba(204, 168, 238, 0.192);
     display: flex;
     justify-content: center;
